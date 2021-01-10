@@ -1,0 +1,11 @@
+These are the solutions for project-Euler problems, alphabetically.
+1->233168
+2->4613732
+3->6857
+4->906609
+5->232792560
+6->
+7->
+8->
+9->
+10->
