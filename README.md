@@ -6,7 +6,9 @@
 <b>Solution Repo for Project-Euler problems. It will be updated soon.</b>
 </p>
 <p align="center">
-  
+<es><strong>Project Euler</strong></es> was started by <es><strong>Colin Hughes</strong></es> (a.k.a. euler) in October 2001 as a sub-section on <es><strong><a href = "https://mathschallenge.net/">mathschallenge </a></strong></es>. Who could have known how popular these types of problems would turn out to be? Since then the membership has continued to grow and Project Euler moved to its own domain in 2006. Ideas for new problems come from our own members and they are developed by a team of hard working and <es><strong>talented mathematicians and programmers</strong></es>. So to put it simply, it is the members that run Project Euler.</br><es><strong><a href = "https://projecteuler.net/archives">"It does not matter how slowly you go as long as you do not stop."</a></strong></es> - Leonhard Euler
+</p>
+
 ## Problems
   
 | Index | Title | Solution | Link |
@@ -111,3 +113,9 @@
 |98|[Anagramic squares](https://projecteuler.net/problem=98)| |[C++]()
 |99|[Largest exponential](https://projecteuler.net/problem=99)| |[C++]()
 |100|[Arranged probability](https://projecteuler.net/problem=100)| |[C++]()
+
+<details><summary><b>🦾</b></summary>
+  
+  * #ProjectEuler100
+  
+</details>
